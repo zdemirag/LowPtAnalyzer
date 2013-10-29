@@ -1,0 +1,57 @@
+
+# DO NOT DELETE
+
+./plugins/TriggerSelector_cc.so: /uscms_data/d3/zdemirag/HZg_Ntuples/analyzer/CMSSW_5_3_8_patch1/src/Analyzer_v1/./plugins/TriggerSelector.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TROOT.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TDirectory.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TNamed.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TObject.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/Rtypes.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/RConfig.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/RVersion.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/DllImport.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/Rtypeinfo.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/snprintf.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/strlcpy.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TGenericClassInfo.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TSchemaHelper.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TStorage.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TVersionCheck.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/Riosfwd.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TBuffer.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TString.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TMathBase.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TList.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TSeqCollection.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TCollection.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TIterator.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TDatime.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TUUID.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TH1D.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TH1.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAxis.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAttAxis.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayD.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArray.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAttLine.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAttFill.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAttMarker.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayC.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayS.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayI.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayF.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/Foption.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TVectorFfwd.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TVectorDfwd.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TFitResultPtr.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TH2D.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TH2.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TMatrixFBasefwd.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TMatrixDBasefwd.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TFile.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TDirectoryFile.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TUrl.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TMap.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/THashTable.h
+./plugins/TriggerSelector_cc.so: /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/cintdictversion.h /uscmst1/prod/sw/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/RVersion.h
+TriggerSelector_cc__ROOTBUILDVERSION= 5.32/00

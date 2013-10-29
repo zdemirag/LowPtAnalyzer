@@ -1,0 +1,9 @@
+source MakeCondorFiles.csh QCD_170to250__aa
+source MakeCondorFiles.csh QCD_170to250__ab
+source MakeCondorFiles.csh QCD_170to250__ac
+source MakeCondorFiles.csh QCD_250to350__aa
+source MakeCondorFiles.csh QCD_250to350__ab
+source MakeCondorFiles.csh QCD_250to350__ac
+source MakeCondorFiles.csh QCD_80to170__aa
+source MakeCondorFiles.csh QCD_80to170__ab
+source MakeCondorFiles.csh QCD_80to170__ac

@@ -1,0 +1,11 @@
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_100_1_gPQ.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_101_1_oh2.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_102_1_JPx.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_103_1_mAU.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_104_1_6Kc.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_105_1_7N3.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_106_1_w7s.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_107_1_ved.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_108_1_ikF.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_109_1_f5N.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/SinglePhotonParked/nuTuple_10_1_rTs.root

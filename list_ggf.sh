@@ -1,0 +1,11 @@
+source MakeCondorFiles.csh Data_GGF__aa
+source MakeCondorFiles.csh Data_GGF__ab
+source MakeCondorFiles.csh Data_GGF__ac
+source MakeCondorFiles.csh Data_GGF__ad
+source MakeCondorFiles.csh Data_GGF__ae
+source MakeCondorFiles.csh Data_GGF__af
+source MakeCondorFiles.csh Data_GGF__ag
+source MakeCondorFiles.csh Data_GGF__ah
+source MakeCondorFiles.csh Data_GGF__ai__aa
+source MakeCondorFiles.csh Data_GGF__ai__ab
+source MakeCondorFiles.csh Data_GGF__aj

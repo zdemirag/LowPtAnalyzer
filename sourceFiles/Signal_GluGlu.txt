@@ -1,0 +1,2 @@
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/MCggF/nuTuple_1_1_Qro.root
+/eos/uscms/store/user/rtdelima/HnunuGammaSamples/MCggF/nuTuple_2_1_tvU.root
