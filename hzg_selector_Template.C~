@@ -1,4 +1,3 @@
-//Test
 #define hzg_selector_cxx
 #include "hzg_selector.h"
 #include "PhysicsTools/Utilities/interface/LumiReweightingStandAlone.h"
